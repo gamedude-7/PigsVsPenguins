@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4dd6647ed37c17d4bae91eb02cf2563e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myPlayer: {instanceID: 0}
+  - skin: {instanceID: 0}
+  - wrongWayTexture: {fileID: 2800000, guid: 558a2da8aa8a34b4786ad9f56fdf7e90, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

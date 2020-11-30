@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2793d2266be712749bfa4e6acbc5eaea
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ice: {fileID: 5400000, guid: 15f450b7c52d58045985b759cb0c0e14, type: 2}
+  - prefab1: {instanceID: 0}
+  - prefab2: {instanceID: 0}
+  - prefab3: {instanceID: 0}
+  - prefab4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

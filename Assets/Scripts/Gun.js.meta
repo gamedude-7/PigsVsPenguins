@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c9bfdde05f13a584da05dfe250959d47
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - muzzleFlash: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - prefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
